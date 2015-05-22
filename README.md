@@ -1,0 +1,2 @@
+# penpalhub
+MEAN stack prototype
